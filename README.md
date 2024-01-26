@@ -9,5 +9,5 @@ This  repository contains GDSC KJC Web Development Club assignment. In this proj
 The main objective of this assignment is to replicate a navigation bar design from Figma, focusing on HTML and CSS implementation.
 
 ### Key Features
-- Use HTML to structure the navigation bar.
-- Apply CSS styles to replicate the design from Figma.
+- Used HTML to structure the navigation bar.
+- Applied CSS styles to replicate the design from Figma.
